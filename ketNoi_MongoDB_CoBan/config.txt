@@ -3,4 +3,5 @@ B1: File -> New -> Other Project -> Maven Project (hoặc gradle)
 B2: Tạo project, đặt tên theo Artifact ID 
 B3: mở file pom.xml, copy hết và dán vào file pom.xml có sẵn rồi save all, library sẽ được add vào
 B4: copy dán các package ở src/main/java vào rồi run rồi đọc source
+Ghi file json xong thì nhớ import vào mongodb, sửa file json là xóa hết kiểu list đi
 
